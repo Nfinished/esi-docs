@@ -24,4 +24,4 @@ EVE Online provider for Better Auth.
 
 ## Features
 
-A small, secure [EVE Online SSO](https://developers.eveonline.com/docs/services/sso/) provider helper for [Better Auth](https://better-auth.com/). [Documentation](https://github.com/better-auth-eve-online/esi#readme)
+A small, secure [EVE Online SSO](https://developers.eveonline.com/docs/services/sso/) provider helper for [Better Auth](https://better-auth.com/). [Documentation](https://github.com/localisprimary/better-auth-eve-online/esi#readme)
