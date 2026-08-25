@@ -8,7 +8,6 @@ description: A slightly opinionated TypeScript client for the EVE Online API.
 maintainer:
   name: Tujiko Noriko
   github: localisprimary
-  repository: https://github.com/localisprimary/esi
 ---
 
 # @localisprimary/esi
