@@ -8,7 +8,7 @@ description: EVE Online provider for Better Auth.
 maintainer:
   name: Tujiko Noriko
   github: localisprimary
-  repository: https://github.com/localisprimary/esi
+  repository: https://github.com/localisprimary/better-auth-eve-online
 ---
 
 # @localisprimary/better-auth-eve-online
